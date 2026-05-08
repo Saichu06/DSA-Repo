@@ -1,0 +1,91 @@
+🟦 Arrays / Two Pointers
+
+Maximum Subarray Sum (Brute force → Kadane context)
+
+Container With Most Water
+
+Trapping Rain Water
+
+Plus One (Array version)
+
+🟩 Linked List (VERY STRONG SET)
+
+Delete Node at Given Position
+
+Remove Nth Node From End
+
+Without dummy
+
+With edge cases
+
+Check if Linked List is Palindrome
+
+Stack method
+
+ArrayList method
+
+Optimal approach discussion
+
+Detect and Remove Loop in Linked List
+
+Floyd’s Cycle Detection
+
+Edge cases (loop at head, general loop)
+
+Reverse Doubly Linked List
+
+Reorder List
+
+Rotate Linked List
+
+Merge Two Sorted Linked Lists
+
+Add Two Numbers (Linked Lists)
+
+Reverse-order
+
+Forward-order
+
+Leading zero handling
+
+Add One to a Number Represented as Linked List
+
+Reverse method
+
+Your optimized “last non-9” method
+
+🟨 Stack & Queue
+
+Implement Queue Using Two Stacks
+
+Push-costly version
+
+Amortized O(1) version
+
+First Non-Repeating Character (Index)
+
+Queue + frequency array
+
+Implement Queue Using Array
+
+Simple array queue
+
+Dequeue with shifting
+
+Discussion of circular queue
+
+🟪 Trees
+
+Convert Sorted Linked List to Balanced BST
+
+Slow–fast pointer
+
+Recursive construction
+
+Understanding left vs right subtree recursion
+
+🟫 Greedy / Counting
+
+Number of Students Unable to Eat Lunch
+
+Count-based optimal solution

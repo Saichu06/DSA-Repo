@@ -1,4 +1,5 @@
-class Solution {
+import java.util.*;
+class candyproblem {
     public int candy(int[] ratings) {
         int n=ratings.length;
         int[] ans=new int[n];

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apna College sheet/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Apna College sheet/Amazon/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Important Questions.iml" filepath="$PROJECT_DIR$/Important Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apna College sheet/Microsoft/Microsoft.iml" filepath="$PROJECT_DIR$/Apna College sheet/Microsoft/Microsoft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Striver Sheet/Striver Sheet.iml" filepath="$PROJECT_DIR$/Striver Sheet/Striver Sheet.iml" />
+    </modules>
+  </component>
+</project>

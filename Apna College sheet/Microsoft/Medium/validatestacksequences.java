@@ -10,7 +10,7 @@ class validatestacksequences {
                 j++;
             }
             st.push(pushed[i]);
-        }   
+        }  //adding 
 
         while(!st.isEmpty() && popped[j]==st.peek()){
                 st.pop();

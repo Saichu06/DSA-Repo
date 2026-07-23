@@ -19,7 +19,9 @@ class flattenLLOpt {
         }
     }
 
+
     public void flatten(TreeNode root) {
+        System.
         while (root != null) {
             if (root.left != null) {
                 TreeNode curr = root.left;

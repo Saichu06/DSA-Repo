@@ -18,7 +18,7 @@ public class kthSmallestinBST {
             this.left = left;
             this.right = right;
         }
-    }
+    }//1
 
     int count = 0;
     int result = 1;

@@ -1,6 +1,6 @@
 import java.util.*;
 public class kDiffPairs {
-     int countPairs(int[] arr, int k) {
+     public int countPairs(int[] arr, int k) {
         int n = arr.length;  
         HashMap<Integer, Integer> freq = new HashMap<>();
         int cnt = 0;
@@ -21,4 +21,5 @@ public class kDiffPairs {
             freq.put(arr[i], freq.getOrDefault(arr[i], 0) + 1); 
         }
         return cnt;
+     }
 }

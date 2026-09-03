@@ -1,4 +1,4 @@
-public class parityarray2 {
+public class partiyarray2 {
     public boolean uniformArray(int[] nums1) {
         int min = Integer.MAX_VALUE;
         for (int num : nums1) {

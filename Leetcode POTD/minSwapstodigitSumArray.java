@@ -1,3 +1,5 @@
+import java.util.*;
+
 class minSwapstodigitSumArray {
     public int minSwaps(int[] nums) {
         int n = nums.length;
@@ -43,5 +45,14 @@ class minSwapstodigitSumArray {
         }
 
         return swaps;
+    }
+
+    public int digitSum(int n) {
+        int sum = 0;
+        while (n > 0) {
+            sum += n % 10;
+            n = n / 10;
+        }
+        return sum;
     }
 }

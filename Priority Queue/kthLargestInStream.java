@@ -4,16 +4,17 @@ class kthLargestInStream {
     private PriorityQueue<Integer> pq;
     private int k;
 
-    public KthLargest(int k, int[] nums) {
+    public void KthLargest(int k, int[] nums) {
         pq = new PriorityQueue<>();
         this.k = k;
 
-        for(int num : nums){
-            if(pq.size()<k){
+        for (int num : nums) {
+            if (pq.size() < k) {
                 pq.offer(num);
-            }else if(pq.peek()<num){
+            } else if (pq.peek() < num) {
                 pq.offer(num);
-                while(pq.size()>k) pq.poll();
+                while (pq.size() > k)
+                    pq.poll();
             }
         }
     }
